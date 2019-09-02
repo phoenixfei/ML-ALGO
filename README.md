@@ -5,7 +5,7 @@
 
 ## 基本算法
 
-- [逻辑回归](logistic regression/logistic regression.md)
+- [逻辑回归](logistic%20regression/logistic%20regression.md)
 
 ## 数据挖掘十大算法
 
